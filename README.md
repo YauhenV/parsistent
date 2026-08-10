@@ -15,7 +15,7 @@
 
 ## 🇺🇸 English
 
-HTTP request tester with proxy support, CSS selector tester, XPath, regex, JSON formatter, diff checker and more — all in one place, straight from the browser.
+HTTP request tester with proxy support, cURL-to-code converter, proxy checker, CSS selector and XPath testers, regex, JSON tools, diff checker and more — all in one place, straight from the browser.
 
 **→ [parsistent.com](https://parsistent.com)**
 
@@ -60,7 +60,7 @@ Next.js 16 · TypeScript · Tailwind CSS v4 · Vercel
 
 ## 🇷🇺 Русский
 
-HTTP-тестер запросов с поддержкой прокси, тестер CSS-селекторов, XPath, регулярных выражений, форматировщик JSON, сравнение текстов и многое другое — всё в одном месте, прямо в браузере.
+Отправка HTTP-запросов через прокси, конвертер cURL в код, проверка прокси, тестеры CSS-селекторов и XPath, регулярные выражения, работа с JSON, сравнение текстов и многое другое — всё в одном месте, прямо в браузере.
 
 **→ [parsistent.com](https://parsistent.com)**
 
