@@ -6,7 +6,6 @@
 
 🇺🇸 English &nbsp;·&nbsp; [🇷🇺 Русский](#-русский)
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Free](https://img.shields.io/badge/free-forever-blue.svg)](https://parsistent.com)
 [![Account](https://img.shields.io/badge/account-optional-lightgrey.svg)](https://parsistent.com)
 
@@ -27,6 +26,8 @@ HTTP request tester with proxy support, CSS selector tester, XPath, regex, JSON 
 | Tool | Description |
 |------|-------------|
 | [Request Tester](https://parsistent.com/tools/request-tester) | Build and send HTTP requests via proxy with headers, body and auth |
+| [cURL Converter](https://parsistent.com/tools/curl-converter) | Convert a cURL command to code — Python, JavaScript, Java, PHP, Go, Ruby, C# |
+| [Proxy Checker](https://parsistent.com/tools/proxy-checker) | Check proxies — status, speed, anonymity, geo, type and an anti-bot test |
 | [CSS Selector Tester](https://parsistent.com/tools/css-selector-tester) | Test CSS selectors against HTML snippets |
 | [XPath Tester](https://parsistent.com/tools/xpath-tester) | Test XPath expressions against HTML/XML |
 | [Regex Tester](https://parsistent.com/tools/regex-tester) | Test regular expressions with match highlighting |
@@ -41,11 +42,11 @@ HTTP request tester with proxy support, CSS selector tester, XPath, regex, JSON 
 
 ### Features
 
-- 🌐 **Proxy support** — HTTP, HTTPS, SOCKS4, SOCKS5 across all network tools
-- 🛡️ **Anti-bot detection** — identifies Cloudflare, DataDome, PerimeterX automatically
-- 🔐 **No account required** — all tools work immediately; account will be optional
-- ⚡ **Browser-based** — no install, no CLI, no server setup
-- 🌍 **English & Russian UI** — full i18n support
+- **Proxy support** — HTTP, HTTPS, SOCKS4, SOCKS5 across all network tools
+- **Anti-bot detection** — identifies Cloudflare, DataDome, PerimeterX automatically
+- **No account required** — all tools work immediately; account will be optional
+- **Browser-based** — no install, no CLI, no server setup
+- **English & Russian UI** — full i18n support
 
 ### Tech
 
@@ -69,26 +70,28 @@ HTTP-тестер запросов с поддержкой прокси, тес�
 
 | Инструмент | Описание |
 |------------|----------|
-| [Тестер запросов](https://parsistent.com/ru/tools/request-tester) | Отправка HTTP-запросов через прокси с заголовками, телом и авторизацией |
+| [Отправка запросов](https://parsistent.com/ru/tools/request-tester) | Отправка HTTP-запросов через прокси с заголовками, телом и авторизацией |
+| [Конвертер cURL](https://parsistent.com/ru/tools/curl-converter) | Конвертация cURL-команды в код — Python, JavaScript, Java, PHP, Go, Ruby, C# |
+| [Проверка прокси](https://parsistent.com/ru/tools/proxy-checker) | Проверка прокси — статус, скорость, анонимность, гео, тип и тест на анти-бот |
 | [Тестер CSS-селекторов](https://parsistent.com/ru/tools/css-selector-tester) | Тестирование CSS-селекторов на HTML-фрагментах |
 | [Тестер XPath](https://parsistent.com/ru/tools/xpath-tester) | Тестирование XPath-выражений на HTML/XML |
-| [Тестер регулярных выражений](https://parsistent.com/ru/tools/regex-tester) | Тестирование регулярных выражений с подсветкой совпадений |
-| [Форматировщик JSON](https://parsistent.com/ru/tools/json-beautifier) | Форматирование и валидация JSON |
-| [Минификатор JSON](https://parsistent.com/ru/tools/json-minifier) | Сжатие JSON в одну компактную строку |
-| [Кодировщик / Декодер](https://parsistent.com/ru/tools/encoder-decoder) | Кодирование и декодирование URL, Base64 и HTML-сущностей |
+| [Regex-тестер](https://parsistent.com/ru/tools/regex-tester) | Тестирование регулярных выражений с подсветкой совпадений |
+| [Форматирование JSON](https://parsistent.com/ru/tools/json-beautifier) | Форматирование и валидация JSON |
+| [Минификация JSON](https://parsistent.com/ru/tools/json-minifier) | Сжатие JSON в одну компактную строку |
+| [Энкодер / декодер](https://parsistent.com/ru/tools/encoder-decoder) | Кодирование и декодирование URL, Base64 и HTML-сущностей |
 | [Генератор хешей](https://parsistent.com/ru/tools/hash-generator) | Генерация MD5 и SHA-256 хешей из текста |
 | [Сравнение текстов](https://parsistent.com/ru/tools/diff-checker) | Сравнение двух текстов с подсветкой различий |
-| [Генератор данных](https://parsistent.com/ru/tools/fake-data-generator) | Генерация случайных имён, email, телефонов и адресов |
+| [Тестовые данные](https://parsistent.com/ru/tools/fake-data-generator) | Генерация случайных имён, email, телефонов и адресов |
 | [Поиск позиции в тексте](https://parsistent.com/ru/tools/text-position) | Поиск всех вхождений по индексу, строке и столбцу |
-| [Конвертер времени](https://parsistent.com/ru/tools/time-converter) | Конвертация Unix-временных меток в читаемый формат |
+| [Конвертер timestamp](https://parsistent.com/ru/tools/time-converter) | Конвертация Unix-временных меток в читаемый формат |
 
 ### Возможности
 
-- 🌐 **Поддержка прокси** — HTTP, HTTPS, SOCKS4, SOCKS5 во всех сетевых инструментах
-- 🛡️ **Обнаружение антибот-защит** — автоматически определяет Cloudflare, DataDome, PerimeterX
-- 🔐 **Регистрация не обязательна** — все инструменты работают сразу; аккаунт будет опциональным
-- ⚡ **Работает в браузере** — ничего не нужно устанавливать
-- 🌍 **Интерфейс на русском и английском** — полная поддержка i18n
+- **Поддержка прокси** — HTTP, HTTPS, SOCKS4, SOCKS5 во всех сетевых инструментах
+- **Обнаружение антибот-защит** — автоматически определяет Cloudflare, DataDome, PerimeterX
+- **Регистрация не обязательна** — все инструменты работают сразу; аккаунт будет опциональным
+- **Работает в браузере** — ничего не нужно устанавливать
+- **Интерфейс на русском и английском** — полная поддержка i18n
 
 ### Технологии
 
@@ -96,8 +99,8 @@ Next.js 16 · TypeScript · Tailwind CSS v4 · Vercel
 
 | | |
 |---|---|
-| ![Тестер запросов](assets/screenshot-request.png) | ![Тестер CSS-селекторов](assets/screenshot-selector.png) |
+| ![Отправка запросов](assets/screenshot-request.png) | ![Тестер CSS-селекторов](assets/screenshot-selector.png) |
 
 ---
 
-*© 2026 Parsistent. Released under the [MIT License](LICENSE).*
+*© 2026 Parsistent.*
